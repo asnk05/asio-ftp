@@ -26,7 +26,7 @@ FTP file server written in C++
 This project can be compiled using CMake
 
 ```
-git clone https://github.com/ansonkwok05/asio-ftp
+git clone git@github.com:asnk05/asio-ftp.git
 cd asio-ftp
 mkdir build
 cd build
